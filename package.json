@@ -1,10 +1,10 @@
 {
   "devDependencies": {
-    "@symfony/webpack-encore": "^0.19.0",
+    "@symfony/webpack-encore": "^4.2.0",
     "babel-plugin-transform-react-remove-prop-types": "^0.4.24",
     "babel-preset-react": "^6.24.1",
     "bootstrap": "^3.4.1",
-    "copy-webpack-plugin": "^4.6.0",
+    "copy-webpack-plugin": "^11.0.0",
     "eslint": "^6.1.0",
     "eslint-plugin-react": "^7.14.2",
     "font-awesome": "4",
@@ -13,7 +13,7 @@
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "sass-loader": "^6.0.6",
+    "sass-loader": "^13.2.0",
     "sweetalert2": "^7.33.1",
     "uuid": "^3.3.2",
     "webpack-notifier": "^1.8.0"
